@@ -1,18 +1,18 @@
 //
-//  LoginView.swift
+//  SettingRowView.swift
 //  Kotton
 //
-//  Created by Elisabeth Manalo on 12/3/23.
+//  Created by Elisabeth Manalo on 12/7/23.
 //
 
 import SwiftUI
 
-struct LoginView: View {
+struct SettingRowView: View {
     var body: some View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
 }
 
 #Preview {
-    LoginView()
+    SettingRowView()
 }
