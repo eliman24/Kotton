@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyD-0veZKKNMaV8SzlS69JEKNd0R1PLvXhI</string>
+	<string>AIzaSyDImm2nsKUMlYDVUwW8ThT1TAbFbTUqgkA</string>
 	<key>GCM_SENDER_ID</key>
-	<string>469653128565</string>
+	<string>835805490427</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>lissiemanalo.Kotton</string>
 	<key>PROJECT_ID</key>
-	<string>kotton-2024</string>
+	<string>kotton-2324</string>
 	<key>STORAGE_BUCKET</key>
-	<string>kotton-2024.appspot.com</string>
+	<string>kotton-2324.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:469653128565:ios:f1aa54a593fb0463753f3c</string>
+	<string>1:835805490427:ios:13e8b539376938b432545e</string>
 </dict>
 </plist>
